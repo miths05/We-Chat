@@ -3,7 +3,6 @@
 
 <a style="" href="https://chat-application-jack.vercel.app/">
   
-![Macbook-Air-Iphone-13](https://github.com/user-attachments/assets/24edbef0-083f-44d4-9717-3e659ecb404b)
 
 </a>
 
@@ -34,7 +33,7 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 <!-- -   **User Status:** Display online/offline status of users. -->
 
 ## Images
-**Profile**
+<!-- **Profile**
 ![Macbook-Air-localhost](https://github.com/user-attachments/assets/7ea906d8-10a9-4e79-a3aa-46f45dd328bb)
 
 **Group Create**
@@ -62,7 +61,7 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 ![Macbook-Air-localhost (8)](https://github.com/user-attachments/assets/376bdfd8-7ffa-435b-b506-0a7405d5137c)
 
 **Notification Alert**
-![Screenshot 2024-07-22 231334](https://github.com/user-attachments/assets/fbaa92af-ee49-48b7-8442-cd8f8cc4d3bc)
+![Screenshot 2024-07-22 231334](https://github.com/user-attachments/assets/fbaa92af-ee49-48b7-8442-cd8f8cc4d3bc) -->
 
 **Shimmer**
 ![image](https://github.com/user-attachments/assets/45b6665a-9e2d-4a61-b092-7cb7a0b775be)
