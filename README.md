@@ -62,6 +62,14 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 
 **Notification Alert**
 ![Screenshot 2024-07-22 231334](https://github.com/user-attachments/assets/fbaa92af-ee49-48b7-8442-cd8f8cc4d3bc) -->
+![image](https://github.com/user-attachments/assets/97b924fd-bed2-4c94-9b9d-38c7737a069a)
+
+![image](https://github.com/user-attachments/assets/5c5bbd99-79d2-4f2d-a95b-399a7a3f70b8)
+
+![image](https://github.com/user-attachments/assets/1bc2dd7a-177b-492d-9846-3b5fd66ebef6)
+
+![image](https://github.com/user-attachments/assets/cfdaf421-f7b9-4f11-9432-f562ef46b9d7)
+
 
 **Shimmer**
 ![image](https://github.com/user-attachments/assets/45b6665a-9e2d-4a61-b092-7cb7a0b775be)
