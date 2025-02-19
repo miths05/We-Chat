@@ -70,6 +70,3 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 
 ![image](https://github.com/user-attachments/assets/cfdaf421-f7b9-4f11-9432-f562ef46b9d7)
 
-
-**Shimmer**
-![image](https://github.com/user-attachments/assets/45b6665a-9e2d-4a61-b092-7cb7a0b775be)
