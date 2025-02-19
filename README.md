@@ -10,8 +10,7 @@
 
 ## Project 
 
-_A real-time **Chat application** built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. It supports user authentication, group chats, and instant messaging with real-time updates via Socket.IO. The application is fully responsive and provides smooth communication with features like notifications and state management using Redux._
-
+_A real-time **Chat application** built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. It supports user authentication, group chats, and instant messaging with real-time updates via Socket.IO. 
 ## Technologies
 
 -   **MongoDB**: NoSQL database for flexible and scalable data storage.
@@ -29,7 +28,7 @@ _A real-time **Chat application** built using the MERN stack (MongoDB, Express, 
 -   **Real-time Chat:** Users can send and receive messages in real-time.
 -   **Group Chat:** Create and participate in group chats.
 -   **Message Notifications:** Get notified of new messages with sound and visual alerts.
--   **State Management:** Manage application state efficiently using Redux.
+-   <!-- **State Management:** Manage application state efficiently using Redux. -->
 <!-- -   **User Status:** Display online/offline status of users. -->
 
 ## Images
